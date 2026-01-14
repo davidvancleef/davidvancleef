@@ -2,7 +2,7 @@
 
 # 👨‍💻 Sobre Mim
 
-Sou Desenvolvedor formado em **Ciência da Computação pela UFG** e atualmente curso uma **pós-graduação em Arquitetura e Desenvolvimento de Sistemas**, com ênfase em **Padrões de Projeto**.
+Sou um Engenheiro de Software formado em **Ciência da Computação pela UFG** e atualmente curso uma **pós-graduação em Arquitetura e Desenvolvimento de Sistemas**, com ênfase em **Padrões de Projeto**.
 
 Tenho grande interesse pelas áreas de:
 
@@ -10,13 +10,13 @@ Tenho grande interesse pelas áreas de:
 - ⚙️ Desenvolvimento Back-end  
 - 🔌 Criação e integração de APIs  
 
-Gosto de construir soluções bem estruturadas, com foco em clareza, organização e boas práticas de desenvolvimento.
+Gosto de situações desafiadoras na programação, que envolvam senso crítico, olhar analítico e, principalmente, criatividade para serem resolvidas. Assim, sempre que possível, tento resolver problemas usando métodos que outros ainda não haviam pensado.
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### Linguagens de Programação
+### Linguagens de Programação que uso/tenho familiaridade:
 - C  
 - C# (.NET)  
 - Java  
@@ -27,13 +27,16 @@ Gosto de construir soluções bem estruturadas, com foco em clareza, organizaç�
 
 ### Back-end / APIs
 - Node.js  
-- Firebase (Auth, Firestore, Functions, Cloud Messaging)  
+- MySQL, SQLite
+- Firebase (Auth, Firestore, Functions, Cloud Messaging)
+- Manipulação e validação de JSON
 
 ### Mobile / Front-end
 - Flutter  
 
 ### Dados e Análise
-- Jupyter Notebook  
+- Jupyter Notebook
+- Pandas e Numpy
 
 ### Sistemas Operacionais
 - Linux  
@@ -57,7 +60,7 @@ No meu tempo livre, gosto de:
 
 # 🌎 About Me (English Version)
 
-I am a Software Developer with a degree in **Computer Science from UFG**, currently pursuing a **postgraduate degree in Software Architecture and Development**, with a focus on **Design Patterns**.
+I am a Software Engineer with a degree in **Computer Science from UFG**, currently pursuing a **postgraduate degree in Software Architecture and Development**, with a focus on **Design Patterns**.
 
 I am especially interested in:
 
@@ -65,7 +68,7 @@ I am especially interested in:
 - ⚙️ Back-end Development  
 - 🔌 API Design and Integration  
 
-I enjoy building well-structured solutions, focusing on clarity, organization, and good development practices.
+I enjoy challenging situations in programming that require critical thinking, an analytical perspective, and, above all, creativity to solve them. Therefore, whenever possible, I try to solve problems using methods that others haven't yet considered.
 
 ---
 
@@ -81,14 +84,17 @@ I enjoy building well-structured solutions, focusing on clarity, organization, a
 - Dart  
 
 ### Back-end / APIs
-- Node.js  
-- Firebase (Auth, Firestore, Functions, Cloud Messaging)  
+- Node.js
+- MySQL, SQLite
+- Firebase (Auth, Firestore, Functions, Cloud Messaging)
+- JSON validations and manipulation
 
 ### Mobile / Front-end
 - Flutter  
 
 ### Data & Analysis
-- Jupyter Notebook  
+- Jupyter Notebook
+- Pandas and Numpy
 
 ### Operating Systems
 - Linux  
