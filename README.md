@@ -1,6 +1,6 @@
 ## Aloha! 👋
 
-I am a Software Engineer with a degree in **Computer Science from UFG**, currently pursuing a **postgraduate degree in Software Architecture and Development**, with a focus on **Design Patterns**.
+I am a brazilian Software Engineer with a degree in **Computer Science from UFG**, currently pursuing a **postgraduate degree in Software Architecture and Development**, with a focus on **Design Patterns**.
 
 I am especially interested in:
 
