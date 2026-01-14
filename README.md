@@ -14,8 +14,8 @@ I enjoy challenging situations in programming that require critical thinking, an
 
 ## 🛠️ Technologies and Tools
 
-### Programming Languages  
-C, C# (.NET), Java, Assembly *(me and about 10 other people in the world 😄)*, JavaScript, Python, Dart
+### Main Programming Languages  
+C, C# (.NET), Java, JavaScript, Python
 
 ### Back-end / APIs  
 Node.js, MySQL, SQLite, Firebase (Auth, Firestore, Functions, Cloud Messaging), JSON validation and manipulation
