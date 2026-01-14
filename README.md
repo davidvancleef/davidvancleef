@@ -1,7 +1,5 @@
 ## Aloha! 👋
 
-# 🌎 About Me
-
 I am a Software Engineer with a degree in **Computer Science from UFG**, currently pursuing a **postgraduate degree in Software Architecture and Development**, with a focus on **Design Patterns**.
 
 I am especially interested in:
@@ -16,34 +14,14 @@ I enjoy challenging situations in programming that require critical thinking, an
 
 ## 🛠️ Technologies and Tools
 
-### Programming Languages
-- C  
-- C# (.NET)  
-- Java  
-- Assembly *(me and about 10 other people in the world 😄)*  
-- JavaScript  
-- Python  
-- Dart  
+### Programming Languages  
+C, C# (.NET), Java, Assembly *(me and about 10 other people in the world 😄)*, JavaScript, Python, Dart
 
-### Back-end / APIs
-- Node.js
-- MySQL, SQLite
-- Firebase (Auth, Firestore, Functions, Cloud Messaging)
-- JSON validations and manipulation
+### Back-end / APIs  
+Node.js, MySQL, SQLite, Firebase (Auth, Firestore, Functions, Cloud Messaging), JSON validation and manipulation
 
-### Mobile / Front-end
-- Flutter  
-
-### Data & Analysis
-- Jupyter Notebook
-- Pandas and Numpy
-
-### Operating Systems
-- Linux  
-- Windows  
-
-### DevOps / Infrastructure
-- Docker  
+### Data & Analysis  
+Jupyter Notebook, Pandas, NumPy
 
 ---
 
@@ -51,7 +29,7 @@ I enjoy challenging situations in programming that require critical thinking, an
 
 In my free time, I enjoy:
 
-- ♟️ Playing chess  
+- ♟️ Playing chess 
 - 🎹 Playing the keyboard  
-- 🎧 Listening to music  
+- 🎧 Listening to music (You can check on my [last.fm](https://www.last.fm/user/davidvancleef) and I'll probably be listening right now! 
 - 🧙‍♂️ Playing RPGs  
