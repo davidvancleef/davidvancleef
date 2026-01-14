@@ -18,7 +18,7 @@ I enjoy challenging situations in programming that require critical thinking, an
 C, C# (.NET), Java, JavaScript, Python
 
 ### Back-end / APIs  
-Node.js, MySQL, SQLite, Firebase (Auth, Firestore, Functions, Cloud Messaging), JSON validation and manipulation
+Node.js, MySQL, SQLite, Firebase
 
 ### Data & Analysis  
 Jupyter Notebook, Pandas, NumPy
