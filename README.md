@@ -2,7 +2,7 @@
 
 I'm a Brazilian Software Engineer with a degree in **Computer Science from UFG**, currently pursuing a postgraduate degree in **Software Architecture and Development**, with a focus on **Design Patterns**.
 
-I am especially interested in areas such as **QA, Back-end Development, and API Design and Integration**.
+I am especially interested in areas such as **QA, Back-end Development, Data Analysis and API Design and Integration**.
 
 I enjoy challenging programming situations that require critical thinking, an analytical mindset, and, above all, creativity to solve problems. Whenever possible, I try to approach challenges using methods that others haven't yet considered.
 
